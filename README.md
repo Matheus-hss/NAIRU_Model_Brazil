@@ -1,0 +1,1 @@
+Esse script é um pipeline econométrico para estimar e analisar a NAIRU (Non-Accelerating Inflation Rate of Unemployment) no Brasil, usando dados do IBGE/SIDRA (PNAD Contínua mensal e IPCA). Ele combina coleta de dados, limpeza, análise exploratória, modelagem de séries temporais e estimação de uma curva de Phillips.
